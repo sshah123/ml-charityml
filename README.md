@@ -1,4 +1,4 @@
-# ml-charityml
+# ml-udacity-supervised-finding-donor
 
 This project applies supervised learning on the data collected by the US census to help a fictitious 
 charity organization called CharityML to identify the people most likely to donate to their cause. 
